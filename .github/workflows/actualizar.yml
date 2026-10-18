@@ -1,0 +1,33 @@
+name: Actualizar marea SHN
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-marea
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Leer SHN
+        run: python3 fetch_shn.py marea.json
+      - name: Commit si cambió
+        run: |
+          if git diff --quiet -- marea.json; then
+            echo "Sin cambios"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add marea.json
+          git commit -m "Actualizar marea $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
