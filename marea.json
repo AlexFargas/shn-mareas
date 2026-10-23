@@ -2,18 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-10-20T19:45:00-03:00",
-   "h": 0.93
-  },
-  {
-   "t": "2026-10-20T20:45:00-03:00",
-   "h": 0.93
-  },
-  {
-   "t": "2026-10-20T21:45:00-03:00",
-   "h": 0.9
-  },
-  {
    "t": "2026-10-20T22:45:00-03:00",
    "h": 0.96
   },
@@ -192,25 +180,37 @@
   {
    "t": "2026-10-22T18:45:00-03:00",
    "h": 0.8
+  },
+  {
+   "t": "2026-10-22T19:45:00-03:00",
+   "h": 0.81
+  },
+  {
+   "t": "2026-10-22T20:45:00-03:00",
+   "h": 0.81
+  },
+  {
+   "t": "2026-10-22T21:45:00-03:00",
+   "h": 0.72
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 15:00 Hs DE 22/10/2026 HASTA LAS 03:00 Hs DE 23/10/2026",
-  "correction": "VEINTE CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA COINCIDIR CON ESTOS.-",
+  "validity": "VALIDO DESDE LAS 23:00 Hs DE 22/10/2026 HASTA LAS 11:00 Hs DE 23/10/2026",
+  "correction": "DIEZ CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA COINCIDIR CON ESTOS.-",
   "extremes": [
-   {
-    "type": "bajamar",
-    "t": "2026-10-22T22:00:00-03:00",
-    "h": 0.75
-   },
    {
     "type": "pleamar",
     "t": "2026-10-23T06:00:00-03:00",
-    "h": 1.4
+    "h": 1.5
+   },
+   {
+    "type": "bajamar",
+    "t": "2026-10-23T14:00:00-03:00",
+    "h": 0.75
    }
   ],
   "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-10-22T23:02:13+00:00"
+ "fetchedAt": "2026-10-23T01:45:54+00:00"
 }
