@@ -2,38 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-10-24T04:45:00-03:00",
-   "h": 1.43
-  },
-  {
-   "t": "2026-10-24T05:45:00-03:00",
-   "h": 1.63
-  },
-  {
-   "t": "2026-10-24T06:45:00-03:00",
-   "h": 1.78
-  },
-  {
-   "t": "2026-10-24T07:45:00-03:00",
-   "h": 1.85
-  },
-  {
-   "t": "2026-10-24T08:45:00-03:00",
-   "h": 1.83
-  },
-  {
-   "t": "2026-10-24T09:45:00-03:00",
-   "h": 1.71
-  },
-  {
-   "t": "2026-10-24T10:45:00-03:00",
-   "h": 1.6
-  },
-  {
-   "t": "2026-10-24T11:45:00-03:00",
-   "h": 1.5
-  },
-  {
    "t": "2026-10-24T12:45:00-03:00",
    "h": 1.4
   },
@@ -192,30 +160,60 @@
   {
    "t": "2026-10-26T03:45:00-03:00",
    "h": 1.16
+  },
+  {
+   "t": "2026-10-26T04:45:00-03:00",
+   "h": 1.5
+  },
+  {
+   "t": "2026-10-26T05:45:00-03:00",
+   "h": 1.65
+  },
+  {
+   "t": "2026-10-26T06:45:00-03:00",
+   "h": 1.77
+  },
+  {
+   "t": "2026-10-26T07:45:00-03:00",
+   "h": 1.84
+  },
+  {
+   "t": "2026-10-26T08:45:00-03:00",
+   "h": 1.76
+  },
+  {
+   "t": "2026-10-26T09:45:00-03:00",
+   "h": 1.62
+  },
+  {
+   "t": "2026-10-26T10:45:00-03:00",
+   "h": 1.48
+  },
+  {
+   "t": "2026-10-26T11:45:00-03:00",
+   "h": 1.37
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 23:00 Hs DE 25/10/2026 HASTA LAS 11:00 Hs DE 26/10/2026",
-  "correction": "TREINTA CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA COINCIDIR CON ESTOS.-",
+  "validity": "VALIDO DESDE LAS 07:00 Hs DE 26/10/2026 HASTA LAS 19:00 Hs DE 26/10/2026",
+  "correction": "CUARENTA CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA COINCIDIR CON ESTOS.-",
   "extremes": [
    {
     "type": "bajamar",
-    "t": "2026-10-26T03:00:00-03:00",
-    "h": 0.7
+    "t": "2026-10-26T15:00:00-03:00",
+    "h": 0.8
    },
    {
     "type": "pleamar",
-    "t": "2026-10-26T08:00:00-03:00",
-    "h": 1.5
-   },
-   {
-    "type": "bajamar",
-    "t": "2026-10-26T15:00:00-03:00",
-    "h": 0.65
+    "t": "2026-10-26T20:00:00-03:00",
+    "h": 1.1
    }
   ],
-  "perspective": null
+  "perspective": {
+   "day": "27 DE OCTUBRE DE 2026",
+   "text": "DIEZ CENTIMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA VEINTE CENTIMETROS POR DEBAJO DE ESTOS.-"
+  }
  },
  "errors": {},
- "fetchedAt": "2026-10-26T07:31:56+00:00"
+ "fetchedAt": "2026-10-26T14:56:21+00:00"
 }
