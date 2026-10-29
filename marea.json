@@ -2,26 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-10-27T13:45:00-03:00",
-   "h": 0.92
-  },
-  {
-   "t": "2026-10-27T14:45:00-03:00",
-   "h": 0.84
-  },
-  {
-   "t": "2026-10-27T15:45:00-03:00",
-   "h": 0.76
-  },
-  {
-   "t": "2026-10-27T16:45:00-03:00",
-   "h": 0.69
-  },
-  {
-   "t": "2026-10-27T17:45:00-03:00",
-   "h": 0.71
-  },
-  {
    "t": "2026-10-27T18:45:00-03:00",
    "h": 1.08
   },
@@ -192,28 +172,50 @@
   {
    "t": "2026-10-29T12:45:00-03:00",
    "h": 1.22
+  },
+  {
+   "t": "2026-10-29T13:45:00-03:00",
+   "h": 1.09
+  },
+  {
+   "t": "2026-10-29T14:45:00-03:00",
+   "h": 1.01
+  },
+  {
+   "t": "2026-10-29T15:45:00-03:00",
+   "h": 0.91
+  },
+  {
+   "t": "2026-10-29T16:45:00-03:00",
+   "h": 0.85
+  },
+  {
+   "t": "2026-10-29T17:45:00-03:00",
+   "h": 0.84
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 07:00 Hs DE 29/10/2026 HASTA LAS 19:00 Hs DE 29/10/2026",
-  "correction": "COINCIDIENDO CON LOS VALORES INDICADOS EN LAS TABLAS DE MAREA.-",
+  "validity": "VALIDO DESDE LAS 15:00 Hs DE 29/10/2026 HASTA LAS 03:00 Hs DE 30/10/2026",
+  "correction": "VEINTE CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA COINCIDIR CON ESTOS.-",
   "extremes": [
    {
     "type": "bajamar",
     "t": "2026-10-29T17:00:00-03:00",
-    "h": 0.7
+    "h": 0.85
    },
    {
     "type": "pleamar",
     "t": "2026-10-29T23:00:00-03:00",
-    "h": 1.5
+    "h": 1.6
+   },
+   {
+    "type": "bajamar",
+    "t": "2026-10-30T06:00:00-03:00",
+    "h": 0.65
    }
   ],
-  "perspective": {
-   "day": "30 DE OCTUBRE DE 2026",
-   "text": "VEINTE CENTIMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO AUMENTANDO HASTA COINCIDIR CON ESTOS.-"
-  }
+  "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-10-29T16:42:59+00:00"
+ "fetchedAt": "2026-10-29T21:37:35+00:00"
 }
