@@ -2,26 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-10-28T12:45:00-03:00",
-   "h": 1.03
-  },
-  {
-   "t": "2026-10-28T13:45:00-03:00",
-   "h": 0.94
-  },
-  {
-   "t": "2026-10-28T14:45:00-03:00",
-   "h": 0.84
-  },
-  {
-   "t": "2026-10-28T15:45:00-03:00",
-   "h": 0.74
-  },
-  {
-   "t": "2026-10-28T16:45:00-03:00",
-   "h": 0.68
-  },
-  {
    "t": "2026-10-28T17:45:00-03:00",
    "h": 0.67
   },
@@ -192,33 +172,50 @@
   {
    "t": "2026-10-30T11:45:00-03:00",
    "h": 1.11
+  },
+  {
+   "t": "2026-10-30T12:45:00-03:00",
+   "h": 1.0
+  },
+  {
+   "t": "2026-10-30T13:45:00-03:00",
+   "h": 0.88
+  },
+  {
+   "t": "2026-10-30T14:45:00-03:00",
+   "h": 0.78
+  },
+  {
+   "t": "2026-10-30T15:45:00-03:00",
+   "h": 0.71
+  },
+  {
+   "t": "2026-10-30T16:45:00-03:00",
+   "h": 0.63
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 07:00 Hs DE 30/10/2026 HASTA LAS 19:00 Hs DE 30/10/2026",
-  "correction": "COINCIDIENDO CON LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA CUARENTA CENTÍMETROS POR DEBAJO DE ESTOS.-",
+  "validity": "VALIDO DESDE LAS 15:00 Hs DE 30/10/2026 HASTA LAS 03:00 Hs DE 31/10/2026",
+  "correction": "DIEZ CENTÍMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA TREINTA CENTÍMETROS POR DEBAJO DE ESTOS.-",
   "extremes": [
    {
+    "type": "bajamar",
+    "t": "2026-10-30T19:00:00-03:00",
+    "h": 0.4
+   },
+   {
     "type": "pleamar",
-    "t": "2026-10-30T12:00:00-03:00",
-    "h": 1.25
+    "t": "2026-10-31T00:00:00-03:00",
+    "h": 1.2
    },
    {
     "type": "bajamar",
-    "t": "2026-10-30T18:00:00-03:00",
-    "h": 0.5
-   },
-   {
-    "type": "pleamar",
-    "t": "2026-10-30T23:00:00-03:00",
-    "h": 1.25
+    "t": "2026-10-31T06:00:00-03:00",
+    "h": 0.45
    }
   ],
-  "perspective": {
-   "day": "31 DE OCTUBRE DE 2026",
-   "text": "CUARENTA CENTÍMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO AUMENTANDO HASTA DIEZ CENTÍMETROS POR DEBAJO DE ESTOS.-"
-  }
+  "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-10-30T15:12:01+00:00"
+ "fetchedAt": "2026-10-30T19:59:54+00:00"
 }
