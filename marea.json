@@ -2,30 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-11-01T11:45:00-03:00",
-   "h": 0.81
-  },
-  {
-   "t": "2026-11-01T12:45:00-03:00",
-   "h": 0.78
-  },
-  {
-   "t": "2026-11-01T13:45:00-03:00",
-   "h": 0.68
-  },
-  {
-   "t": "2026-11-01T14:45:00-03:00",
-   "h": 0.61
-  },
-  {
-   "t": "2026-11-01T15:45:00-03:00",
-   "h": 0.53
-  },
-  {
-   "t": "2026-11-01T16:45:00-03:00",
-   "h": 0.46
-  },
-  {
    "t": "2026-11-01T17:45:00-03:00",
    "h": 0.39
   },
@@ -192,33 +168,49 @@
   {
    "t": "2026-11-03T10:45:00-03:00",
    "h": 0.96
+  },
+  {
+   "t": "2026-11-03T11:45:00-03:00",
+   "h": 0.99
+  },
+  {
+   "t": "2026-11-03T12:45:00-03:00",
+   "h": 1.18
+  },
+  {
+   "t": "2026-11-03T13:45:00-03:00",
+   "h": 1.41
+  },
+  {
+   "t": "2026-11-03T14:45:00-03:00",
+   "h": 1.49
+  },
+  {
+   "t": "2026-11-03T15:45:00-03:00",
+   "h": 1.46
+  },
+  {
+   "t": "2026-11-03T16:45:00-03:00",
+   "h": 1.37
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 07:00 Hs DE 03/11/2026 HASTA LAS 19:00 Hs DE 03/11/2026",
-  "correction": "VEINTE CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA.-",
+  "validity": "VALIDO DESDE LAS 15:00 Hs DE 03/11/2026 HASTA LAS 03:00 Hs DE 04/11/2026",
+  "correction": "VEINTE CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA. LUEGO DISMINUYENDO HASTA DIEZ CENTÍMETROS SOBRE ESTOS.-",
   "extremes": [
    {
     "type": "bajamar",
-    "t": "2026-11-03T11:00:00-03:00",
-    "h": 0.85
+    "t": "2026-11-03T21:00:00-03:00",
+    "h": 0.9
    },
    {
     "type": "pleamar",
-    "t": "2026-11-03T16:00:00-03:00",
-    "h": 1.4
-   },
-   {
-    "type": "bajamar",
-    "t": "2026-11-03T22:00:00-03:00",
-    "h": 0.8
+    "t": "2026-11-04T05:30:00-03:00",
+    "h": 1.95
    }
   ],
-  "perspective": {
-   "day": "04 DE NOVIEMBRE DE 2026",
-   "text": "VEINTE CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA VEINTE CENTIMETROS POR DEBAJO DE ESTOS.-"
-  }
+  "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-11-03T14:53:32+00:00"
+ "fetchedAt": "2026-11-03T20:49:10+00:00"
 }
