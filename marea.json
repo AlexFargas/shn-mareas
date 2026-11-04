@@ -2,38 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-11-02T04:45:00-03:00",
-   "h": 1.06
-  },
-  {
-   "t": "2026-11-02T05:45:00-03:00",
-   "h": 0.89
-  },
-  {
-   "t": "2026-11-02T06:45:00-03:00",
-   "h": 0.81
-  },
-  {
-   "t": "2026-11-02T07:45:00-03:00",
-   "h": 0.74
-  },
-  {
-   "t": "2026-11-02T08:45:00-03:00",
-   "h": 0.65
-  },
-  {
-   "t": "2026-11-02T09:45:00-03:00",
-   "h": 0.56
-  },
-  {
-   "t": "2026-11-02T10:45:00-03:00",
-   "h": 0.62
-  },
-  {
-   "t": "2026-11-02T11:45:00-03:00",
-   "h": 1.02
-  },
-  {
    "t": "2026-11-02T12:45:00-03:00",
    "h": 1.24
   },
@@ -192,25 +160,55 @@
   {
    "t": "2026-11-04T03:45:00-03:00",
    "h": 1.9
+  },
+  {
+   "t": "2026-11-04T04:45:00-03:00",
+   "h": 1.81
+  },
+  {
+   "t": "2026-11-04T05:45:00-03:00",
+   "h": 1.58
+  },
+  {
+   "t": "2026-11-04T06:45:00-03:00",
+   "h": 1.39
+  },
+  {
+   "t": "2026-11-04T07:45:00-03:00",
+   "h": 1.21
+  },
+  {
+   "t": "2026-11-04T08:45:00-03:00",
+   "h": 1.05
+  },
+  {
+   "t": "2026-11-04T09:45:00-03:00",
+   "h": 0.9
+  },
+  {
+   "t": "2026-11-04T10:45:00-03:00",
+   "h": 0.79
+  },
+  {
+   "t": "2026-11-04T11:45:00-03:00",
+   "h": 0.71
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 23:00 Hs DE 03/11/2026 HASTA LAS 11:00 Hs DE 04/11/2026",
-  "correction": "CINCUENTA CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA. LUEGO DISMINUYENDO HASTA COINCIDIR CON ESTOS.-",
+  "validity": "VALIDO DESDE LAS 07:00 Hs DE 04/11/2026 HASTA LAS 19:00 Hs DE 04/11/2026",
+  "correction": "DIEZ CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA. LUEGO DISMINUYENDO HASTA VEINTE CENTÍMETROS POR DEBAJO DE ESTOS.-",
   "extremes": [
    {
-    "type": "pleamar",
-    "t": "2026-11-04T04:00:00-03:00",
-    "h": 1.95
-   },
-   {
     "type": "bajamar",
-    "t": "2026-11-04T12:00:00-03:00",
-    "h": 0.7
+    "t": "2026-11-04T22:00:00-03:00",
+    "h": 0.4
    }
   ],
-  "perspective": null
+  "perspective": {
+   "day": "05 DE NOVIEMBRE DE 2026",
+   "text": "VEINTE CENTÍMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA. LUEGO AUMENTANDO HASTA DIEZ CENTÍMETROS POR DEBAJO DE ESTOS.-"
+  }
  },
  "errors": {},
- "fetchedAt": "2026-11-04T07:51:45+00:00"
+ "fetchedAt": "2026-11-04T16:00:35+00:00"
 }
