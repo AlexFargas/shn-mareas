@@ -2,34 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-11-05T22:45:00-03:00",
-   "h": 0.7
-  },
-  {
-   "t": "2026-11-05T23:45:00-03:00",
-   "h": 0.63
-  },
-  {
-   "t": "2026-11-06T00:45:00-03:00",
-   "h": 0.6
-  },
-  {
-   "t": "2026-11-06T01:45:00-03:00",
-   "h": 0.92
-  },
-  {
-   "t": "2026-11-06T02:45:00-03:00",
-   "h": 1.35
-  },
-  {
-   "t": "2026-11-06T03:45:00-03:00",
-   "h": 1.52
-  },
-  {
-   "t": "2026-11-06T04:45:00-03:00",
-   "h": 1.69
-  },
-  {
    "t": "2026-11-06T05:45:00-03:00",
    "h": 1.74
   },
@@ -192,20 +164,58 @@
   {
    "t": "2026-11-07T21:45:00-03:00",
    "h": 1.73
+  },
+  {
+   "t": "2026-11-07T22:45:00-03:00",
+   "h": 1.58
+  },
+  {
+   "t": "2026-11-07T23:45:00-03:00",
+   "h": 1.47
+  },
+  {
+   "t": "2026-11-08T00:45:00-03:00",
+   "h": 1.36
+  },
+  {
+   "t": "2026-11-08T01:45:00-03:00",
+   "h": 1.25
+  },
+  {
+   "t": "2026-11-08T02:45:00-03:00",
+   "h": 1.16
+  },
+  {
+   "t": "2026-11-08T03:45:00-03:00",
+   "h": 1.15
+  },
+  {
+   "t": "2026-11-08T04:45:00-03:00",
+   "h": 1.36
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 15:00 Hs DE 07/11/2026 HASTA LAS 03:00 Hs DE 08/11/2026",
-  "correction": "UN METRO DIEZ CENTIMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA DIEZ CENTIMETROS SOBRE ESTOS.-.-",
+  "validity": "VALIDO DESDE LAS 23:00 Hs DE 07/11/2026 HASTA LAS 11:00 Hs DE 08/11/2026",
+  "correction": "SETENTA CENTIMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA DIEZ CENTIMETROS POR DEBAJO DE ESTOS.-.-",
   "extremes": [
    {
     "type": "bajamar",
-    "t": "2026-11-08T04:00:00-03:00",
-    "h": 0.9
+    "t": "2026-11-08T03:00:00-03:00",
+    "h": 1.0
+   },
+   {
+    "type": "pleamar",
+    "t": "2026-11-08T08:00:00-03:00",
+    "h": 1.55
+   },
+   {
+    "type": "bajamar",
+    "t": "2026-11-08T16:00:00-03:00",
+    "h": 0.5
    }
   ],
   "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-11-08T01:43:00+00:00"
+ "fetchedAt": "2026-11-08T08:42:41+00:00"
 }
