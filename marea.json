@@ -2,30 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-11-08T12:45:00-03:00",
-   "h": 1.03
-  },
-  {
-   "t": "2026-11-08T13:45:00-03:00",
-   "h": 0.94
-  },
-  {
-   "t": "2026-11-08T14:45:00-03:00",
-   "h": 0.84
-  },
-  {
-   "t": "2026-11-08T15:45:00-03:00",
-   "h": 0.77
-  },
-  {
-   "t": "2026-11-08T16:45:00-03:00",
-   "h": 0.73
-  },
-  {
-   "t": "2026-11-08T17:45:00-03:00",
-   "h": 0.86
-  },
-  {
    "t": "2026-11-08T18:45:00-03:00",
    "h": 1.17
   },
@@ -192,33 +168,49 @@
   {
    "t": "2026-11-10T11:45:00-03:00",
    "h": 0.81
+  },
+  {
+   "t": "2026-11-10T12:45:00-03:00",
+   "h": 0.7
+  },
+  {
+   "t": "2026-11-10T13:45:00-03:00",
+   "h": 0.6
+  },
+  {
+   "t": "2026-11-10T14:45:00-03:00",
+   "h": 0.51
+  },
+  {
+   "t": "2026-11-10T15:45:00-03:00",
+   "h": 0.45
+  },
+  {
+   "t": "2026-11-10T16:45:00-03:00",
+   "h": 0.42
+  },
+  {
+   "t": "2026-11-10T17:45:00-03:00",
+   "h": 0.42
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 07:00 Hs DE 10/11/2026 HASTA LAS 19:00 Hs DE 10/11/2026",
-  "correction": "DIEZ CENTÍMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA VEINTE CENTÍMETROS POR DEBAJO DE ESTOS.-",
+  "validity": "VALIDO DESDE LAS 15:00 Hs DE 10/11/2026 HASTA LAS 03:00 Hs DE 11/11/2026",
+  "correction": "TREINTA CENTÍMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA.-",
   "extremes": [
    {
     "type": "pleamar",
-    "t": "2026-11-10T10:00:00-03:00",
-    "h": 1.35
+    "t": "2026-11-10T22:00:00-03:00",
+    "h": 1.0
    },
    {
     "type": "bajamar",
-    "t": "2026-11-10T16:00:00-03:00",
-    "h": 0.45
-   },
-   {
-    "type": "pleamar",
-    "t": "2026-11-10T22:00:00-03:00",
-    "h": 1.05
+    "t": "2026-11-11T05:00:00-03:00",
+    "h": 0.5
    }
   ],
-  "perspective": {
-   "day": "11 DE NOVIEMBRE DE 2026",
-   "text": "TREINTA CENTÍMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO AUMENTANDO HASTA DIEZ CENTÍMETROS POR DEBAJO DE ESTOS.-"
-  }
+  "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-11-10T15:10:55+00:00"
+ "fetchedAt": "2026-11-10T21:23:21+00:00"
 }
