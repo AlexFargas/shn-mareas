@@ -2,34 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-11-07T20:45:00-03:00",
-   "h": 1.86
-  },
-  {
-   "t": "2026-11-07T21:45:00-03:00",
-   "h": 1.73
-  },
-  {
-   "t": "2026-11-07T22:45:00-03:00",
-   "h": 1.58
-  },
-  {
-   "t": "2026-11-07T23:45:00-03:00",
-   "h": 1.47
-  },
-  {
-   "t": "2026-11-08T00:45:00-03:00",
-   "h": 1.36
-  },
-  {
-   "t": "2026-11-08T01:45:00-03:00",
-   "h": 1.25
-  },
-  {
-   "t": "2026-11-08T02:45:00-03:00",
-   "h": 1.16
-  },
-  {
    "t": "2026-11-08T03:45:00-03:00",
    "h": 1.15
   },
@@ -192,25 +164,58 @@
   {
    "t": "2026-11-09T19:45:00-03:00",
    "h": 1.02
+  },
+  {
+   "t": "2026-11-09T20:45:00-03:00",
+   "h": 1.08
+  },
+  {
+   "t": "2026-11-09T21:45:00-03:00",
+   "h": 1.0
+  },
+  {
+   "t": "2026-11-09T22:45:00-03:00",
+   "h": 0.98
+  },
+  {
+   "t": "2026-11-09T23:45:00-03:00",
+   "h": 0.87
+  },
+  {
+   "t": "2026-11-10T00:45:00-03:00",
+   "h": 0.77
+  },
+  {
+   "t": "2026-11-10T01:45:00-03:00",
+   "h": 0.67
+  },
+  {
+   "t": "2026-11-10T02:45:00-03:00",
+   "h": 0.58
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 15:00 Hs DE 09/11/2026 HASTA LAS 03:00 Hs DE 10/11/2026",
-  "correction": "DIEZ CENTIMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA TREINTA CENTÍMETROS POR DEBAJO DE ESTOS.-",
+  "validity": "VALIDO DESDE LAS 23:00 Hs DE 09/11/2026 HASTA LAS 11:00 Hs DE 10/11/2026",
+  "correction": "COINCIDIENDO CON LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA VEINTE CENTÍMETROS POR DEBAJO DE ESTOS.-",
   "extremes": [
-   {
-    "type": "pleamar",
-    "t": "2026-11-09T22:00:00-03:00",
-    "h": 0.95
-   },
    {
     "type": "bajamar",
     "t": "2026-11-10T04:00:00-03:00",
-    "h": 0.35
+    "h": 0.65
+   },
+   {
+    "type": "pleamar",
+    "t": "2026-11-10T10:00:00-03:00",
+    "h": 1.25
+   },
+   {
+    "type": "bajamar",
+    "t": "2026-11-10T16:00:00-03:00",
+    "h": 0.45
    }
   ],
   "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-11-09T23:30:32+00:00"
+ "fetchedAt": "2026-11-10T06:28:08+00:00"
 }
