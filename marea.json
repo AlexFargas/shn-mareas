@@ -2,26 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-11-10T17:45:00-03:00",
-   "h": 0.42
-  },
-  {
-   "t": "2026-11-10T18:45:00-03:00",
-   "h": 0.64
-  },
-  {
-   "t": "2026-11-10T19:45:00-03:00",
-   "h": 0.92
-  },
-  {
-   "t": "2026-11-10T20:45:00-03:00",
-   "h": 1.16
-  },
-  {
-   "t": "2026-11-10T21:45:00-03:00",
-   "h": 1.2
-  },
-  {
    "t": "2026-11-10T22:45:00-03:00",
    "h": 1.26
   },
@@ -192,25 +172,45 @@
   {
    "t": "2026-11-12T16:45:00-03:00",
    "h": 0.68
+  },
+  {
+   "t": "2026-11-12T17:45:00-03:00",
+   "h": 0.68
+  },
+  {
+   "t": "2026-11-12T18:45:00-03:00",
+   "h": 1.06
+  },
+  {
+   "t": "2026-11-12T19:45:00-03:00",
+   "h": 1.47
+  },
+  {
+   "t": "2026-11-12T20:45:00-03:00",
+   "h": 1.68
+  },
+  {
+   "t": "2026-11-12T21:45:00-03:00",
+   "h": 1.77
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 15:00 Hs DE 12/11/2026 HASTA LAS 03:00 Hs DE 13/11/2026",
-  "correction": "COINCIDIENDO CON LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO AUMENTANDO HASTA TREINTA CENTIMETROS SOBRE ESTOS.-",
+  "validity": "VALIDO DESDE LAS 23:00 Hs DE 12/11/2026 HASTA LAS 11:00 Hs DE 13/11/2026",
+  "correction": "CUARENTA CENTIMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA TREINTA CENTIMETROS SOBRE ESTOS.-",
   "extremes": [
-   {
-    "type": "pleamar",
-    "t": "2026-11-13T00:00:00-03:00",
-    "h": 1.7
-   },
    {
     "type": "bajamar",
     "t": "2026-11-13T07:00:00-03:00",
     "h": 1.15
+   },
+   {
+    "type": "pleamar",
+    "t": "2026-11-13T12:00:00-03:00",
+    "h": 1.45
    }
   ],
   "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-11-12T20:17:41+00:00"
+ "fetchedAt": "2026-11-13T01:22:10+00:00"
 }
