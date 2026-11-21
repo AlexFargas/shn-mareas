@@ -2,34 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-11-18T20:45:00-03:00",
-   "h": 0.61
-  },
-  {
-   "t": "2026-11-18T21:45:00-03:00",
-   "h": 0.59
-  },
-  {
-   "t": "2026-11-18T22:45:00-03:00",
-   "h": 0.83
-  },
-  {
-   "t": "2026-11-18T23:45:00-03:00",
-   "h": 1.17
-  },
-  {
-   "t": "2026-11-19T00:45:00-03:00",
-   "h": 1.35
-  },
-  {
-   "t": "2026-11-19T01:45:00-03:00",
-   "h": 1.4
-  },
-  {
-   "t": "2026-11-19T02:45:00-03:00",
-   "h": 1.46
-  },
-  {
    "t": "2026-11-19T03:45:00-03:00",
    "h": 1.36
   },
@@ -192,25 +164,53 @@
   {
    "t": "2026-11-20T19:45:00-03:00",
    "h": 0.55
+  },
+  {
+   "t": "2026-11-20T20:45:00-03:00",
+   "h": 0.54
+  },
+  {
+   "t": "2026-11-20T21:45:00-03:00",
+   "h": 0.54
+  },
+  {
+   "t": "2026-11-20T22:45:00-03:00",
+   "h": 0.53
+  },
+  {
+   "t": "2026-11-20T23:45:00-03:00",
+   "h": 0.67
+  },
+  {
+   "t": "2026-11-21T00:45:00-03:00",
+   "h": 0.98
+  },
+  {
+   "t": "2026-11-21T01:45:00-03:00",
+   "h": 1.25
+  },
+  {
+   "t": "2026-11-21T02:45:00-03:00",
+   "h": 1.37
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 15:00 Hs DE 20/11/2026 HASTA LAS 03:00 Hs DE 21/11/2026",
-  "correction": "VEINTE CENTIMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA DIEZ CENTIMETROS POR DEBAJO DE ESTOS.-",
+  "validity": "VALIDO DESDE LAS 23:00 Hs DE 20/11/2026 HASTA LAS 11:00 Hs DE 21/11/2026",
+  "correction": "COINCIDIENDO CON LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA DIEZ CENTIMETROS POR DEBAJO DE ESTOS.-",
   "extremes": [
    {
-    "type": "bajamar",
-    "t": "2026-11-20T22:00:00-03:00",
-    "h": 0.6
+    "type": "pleamar",
+    "t": "2026-11-21T05:00:00-03:00",
+    "h": 1.55
    },
    {
-    "type": "pleamar",
-    "t": "2026-11-21T05:30:00-03:00",
-    "h": 1.35
+    "type": "bajamar",
+    "t": "2026-11-21T14:00:00-03:00",
+    "h": 0.55
    }
   ],
   "perspective": null
  },
  "errors": {},
- "fetchedAt": "2026-11-20T23:46:12+00:00"
+ "fetchedAt": "2026-11-21T06:06:16+00:00"
 }
