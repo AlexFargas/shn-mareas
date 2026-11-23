@@ -2,42 +2,6 @@
  "station": "San Fernando",
  "observed": [
   {
-   "t": "2026-11-21T00:45:00-03:00",
-   "h": 0.98
-  },
-  {
-   "t": "2026-11-21T01:45:00-03:00",
-   "h": 1.25
-  },
-  {
-   "t": "2026-11-21T02:45:00-03:00",
-   "h": 1.37
-  },
-  {
-   "t": "2026-11-21T03:45:00-03:00",
-   "h": 1.47
-  },
-  {
-   "t": "2026-11-21T04:45:00-03:00",
-   "h": 1.46
-  },
-  {
-   "t": "2026-11-21T05:45:00-03:00",
-   "h": 1.36
-  },
-  {
-   "t": "2026-11-21T06:45:00-03:00",
-   "h": 1.32
-  },
-  {
-   "t": "2026-11-21T07:45:00-03:00",
-   "h": 1.2
-  },
-  {
-   "t": "2026-11-21T08:45:00-03:00",
-   "h": 1.13
-  },
-  {
    "t": "2026-11-21T09:45:00-03:00",
    "h": 1.01
   },
@@ -192,25 +156,64 @@
   {
    "t": "2026-11-22T23:45:00-03:00",
    "h": 0.65
+  },
+  {
+   "t": "2026-11-23T00:45:00-03:00",
+   "h": 0.6
+  },
+  {
+   "t": "2026-11-23T01:45:00-03:00",
+   "h": 0.57
+  },
+  {
+   "t": "2026-11-23T02:45:00-03:00",
+   "h": 0.88
+  },
+  {
+   "t": "2026-11-23T03:45:00-03:00",
+   "h": 1.16
+  },
+  {
+   "t": "2026-11-23T04:45:00-03:00",
+   "h": 1.25
+  },
+  {
+   "t": "2026-11-23T05:45:00-03:00",
+   "h": 1.33
+  },
+  {
+   "t": "2026-11-23T06:45:00-03:00",
+   "h": 1.27
+  },
+  {
+   "t": "2026-11-23T07:45:00-03:00",
+   "h": 1.15
+  },
+  {
+   "t": "2026-11-23T08:45:00-03:00",
+   "h": 1.04
   }
  ],
  "forecast": {
-  "validity": "VALIDO DESDE LAS 23:00 Hs DE 22/11/2026 HASTA LAS 11:00 Hs DE 23/11/2026",
-  "correction": "DIEZ CENTIMETROS SOBRE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO DISMINUYENDO HASTA VEINTE CENTIMETROS POR DEBAJO DE ESTOS.-",
+  "validity": "VALIDO DESDE LAS 07:00 Hs DE 23/11/2026 HASTA LAS 19:00 Hs DE 23/11/2026",
+  "correction": "VEINTE CENTIMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA.-",
   "extremes": [
    {
-    "type": "pleamar",
-    "t": "2026-11-23T07:00:00-03:00",
-    "h": 1.4
+    "type": "bajamar",
+    "t": "2026-11-23T14:30:00-03:00",
+    "h": 0.5
    },
    {
-    "type": "bajamar",
-    "t": "2026-11-23T14:00:00-03:00",
-    "h": 0.7
+    "type": "pleamar",
+    "t": "2026-11-23T19:00:00-03:00",
+    "h": 0.9
    }
   ],
-  "perspective": null
+  "perspective": {
+   "day": "24 DE NOVIEMBRE DE 2026",
+   "text": "DIEZ CENTIMETROS POR DEBAJO DE LOS VALORES INDICADOS EN LAS TABLAS DE MAREA, LUEGO AUMENTANDO HASTA TREINTA CENTIMETROS SOBRE ESTOS.-"
+  }
  },
  "errors": {},
- "fetchedAt": "2026-11-23T02:58:34+00:00"
+ "fetchedAt": "2026-11-23T12:12:14+00:00"
 }
